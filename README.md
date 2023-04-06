@@ -1,0 +1,3 @@
+## About this repository
+
+This repository contains the source codes for figures in the manuscript [Nonlinear eco-evolutionary games with global environmental fluctuations and local environmental feedbacks](https://arxiv.org/pdf/2212.06497.pdf). Note that the codes need to be compiled through MATLAB. The codes starting with 'paper' correspond to the figures in the main text. The codes starting with "effect" and "w_threshold" correspond to the figures in Appendix B and C. Other codes are functions used in the codes above or test files.
